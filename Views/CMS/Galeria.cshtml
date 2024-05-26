@@ -1,0 +1,37 @@
+﻿@model IEnumerable<TravelBlog.Models.GalleryItemModel>
+
+@{
+    ViewData["Title"] = "Galeria";
+}
+<div class="gallery-title">
+    <h1>Galeria</h1>
+</div>
+
+
+<section id="gallery" class="gallery-container">
+    <hr />
+    <div class="gallery">
+        
+         @foreach (var item in Model)
+            {
+            <div class="gallery-item">
+                <div class="gallery-box">
+                    <img src="@item.ImagePath" alt="@item.ImageDescription" class="gallery-main-photo" />
+                    <p class="main-gallery-photo-description">@item.ImageDescription</p>
+                    <div class="gallery-cover">
+                        <img src="~/img/galleryIcons.png" alt="gallery icon">
+                    </div>
+                </div>
+                <div class="gallery-item-buttons">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edytuj</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Szczegóły</a>
+                    <a asp-action="Remove" asp-route-id="@item.Id" class="btn btn-danger">Usuń</a>
+                </div>
+            </div>
+          }
+    </div>
+    <hr />
+    <div class="gallery-button">
+        <a asp-action="Add" class="btn btn-success">Dodaj nowy obraz</a>
+    </div>
+</section>

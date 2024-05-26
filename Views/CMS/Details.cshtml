@@ -1,0 +1,45 @@
+﻿@model TravelBlog.Models.GalleryItemModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="GalleryItemModel">
+    <h1 class="gallery-title">Szczegóły obrazu</h1>
+    <hr />
+    <div class="GalleryItemModel-item">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col">
+                    <img src="@Html.DisplayFor(model => model.ImagePath)" alt="bay" />
+                </div>
+                <div class="col">
+                    <table class="table table-hover">
+                        <tr>
+                            <td>
+                                Opis zdjęcia
+                            </td>
+                            <td>
+                                @Html.DisplayFor(model => model.ImageDescription)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Ścieżka do pliku
+                            </td>
+                            <td>
+                                @Html.DisplayFor(model => model.ImagePath)
+                            </td>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+<hr />
+    <div class="gallery-button">
+        <a asp-action="Galeria" class="btn btn-secondary">Powrót do galerii</a>
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edytuj</a> |
+    </div>
+
+</div>
+

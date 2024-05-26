@@ -1,1 +1,1 @@
-# JIPP-PROJEKT_TravelBlog
+# TravelBlog

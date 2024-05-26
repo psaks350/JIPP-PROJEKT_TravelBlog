@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TravelBlog
+build_property.RootNamespace = TravelBlog
+build_property.ProjectDir = C:\Users\piotr\Desktop\STUDIA\C#\TravelBlog\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\piotr\Desktop\STUDIA\C#\TravelBlog
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/CMS/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/CMS/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/CMS/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/CMS/Galeria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXEdhbGVyaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/CMS/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ01TXFJlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/Aktualnosci.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBa3R1YWxub3NjaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/FormSubmitted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtU3VibWl0dGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/Galeria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxlcmlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/Kontakt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLb250YWt0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/Omnie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPbW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/STUDIA/C\#/TravelBlog/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ec2joq3xbm
